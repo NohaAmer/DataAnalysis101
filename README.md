@@ -38,6 +38,6 @@ This tutorial acts as an introductory analysis to imdb Data.
     - Return the dictionary
   - (e) Making Conclusions:
   	- Based on my results, movies released from Egypt (my home country) have zero facebook likes! Maybe it is time to make some of my own movies and contribute to my country!
- - Step 6: More analysis fun
+- Step 6: More analysis fun
 	- Let's write a generic function that can analyze movies based on multiple criteria
 	- Simple, let the function take another parameter. The new parameter is the column number that we want to analyze relative to the country!  
