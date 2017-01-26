@@ -28,6 +28,7 @@ This tutorial acts as an introductory analysis to imdb Data.
     - Split on new line # split()
     - Split on the comma # split()
     - Now, we have a list of lists (Let's call it myList)
+    - You can skip the drama of step c by importing csv!
   - (d) Data Analysis
   	- Create a function that takes in the fileName as a parameter for now
     - Create a dictionary #myDic { }
