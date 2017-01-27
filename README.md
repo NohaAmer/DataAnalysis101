@@ -1,7 +1,6 @@
 # fun_with_data
 
 ##Resources Needed
-- A computer! Duh!
 - Python
 - Text Editor (Let's start with atom)
 - It will take around 1 week to publish your first project on Git
